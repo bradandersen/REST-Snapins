@@ -1,0 +1,1 @@
+document.write('<a href="netsearch.html">Network Search</a> | <a href="index.html">Host Search</a> | <a href="asearch.html">DNS A Search</a> | <a href="aaaasearch.html">DNS AAAA Search</a> | <a href="ptrsearch.html">DNS PTR Search</a> | <a href="cnamesearch.html">DNS CNAME Search</a><br>');
